@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisHandsome90
-- 👀 I’m interested in ... Software development 
-- 🌱 I’m currently learning ... Software development, Project+, and A+
+- 👀 I’m interested in ... Data Analyst
+- 🌱 I’m currently learning ... Database Management with WGU
 - 💞️ I’m looking to collaborate on ... anything I can get my hands on
 - 📫 How to reach me ... Chrisjr11.cj@gmail.com
 
